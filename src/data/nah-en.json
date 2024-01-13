@@ -1,0 +1,170 @@
+{
+    "e": [
+        {
+            "w": "cohuitl",
+            "p": "s",
+            "d": [
+                {
+                    "m": "tree",
+                    "s": "Inon cohuitl molui piastic.",
+                    "t": "This tree is very upright.",
+                    "n": null
+                },
+                {
+                    "m": "wood",
+                    "s": "Inin puerta tlachihchiutli ica cohuitl.",
+                    "t": "This door is made of wood.",
+                    "n": null
+                },
+                {
+                    "m": "firewood",
+                    "s": "Tehhuan ticpiyahque miac cohuitl huan cuali ticnemacasque sequin.",
+                    "t": "We have a lot of firewood and we can sell some.",
+                    "n": null
+                }
+            ],
+            "v": [
+                "cuahuitl"
+            ],
+            "s": ["tequin", "xochitl"]
+        },
+        {
+            "w": "xochitl",
+            "p": "s",
+            "d": [
+                {
+                    "m": "flower",
+                    "s": "In xochitl tequin cualtzihton ihcuac cueponi san secpa.",
+                    "t": "The flowers are very pretty when they bloom all at once.",
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        },
+        {
+            "w": "tototl",
+            "p": "s",
+            "d": [
+                {
+                    "m": "bird",
+                    "s": "Inin tototl tequin cualtzihton huan ahmo cuihcuica.",
+                    "t": "This bird is very pretty, but it doesn't sing.",
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        },
+        {
+            "w": "atl",
+            "p": "s",
+            "d": [
+                {
+                    "m": "water",
+                    "s": "In tuza oquitetec in tubo den atl.",
+                    "t": "The gopher stole the water pipe.",
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        },
+        {
+            "w": "ahsetl",
+            "p": "s",
+            "d": [
+                {
+                    "m": "snow",
+                    "s": null,
+                    "t": null,
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        },
+        {
+            "w": "cuatl",
+            "p": "s",
+            "d": [
+                {
+                    "m": "snake, serpent",
+                    "s": "In cuatl tequin temoutihtic.",
+                    "t": "The snake is very insolent.",
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        },
+        {
+            "w": "ascatl",
+            "p": "s",
+            "d": [
+                {
+                    "m": "ant",
+                    "s": "Ipan totonqui tlali oncan miac ascatl.",
+                    "t": "There are many ants on the hot ground.",
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        },
+        {
+            "w": "hueyi",
+            "p": "adj",
+            "d": [
+                {
+                    "m": "immense, large, enormous",
+                    "s": "Inin tlalticpac tequin hueyi.",
+                    "t": "This world is immense.",
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        },
+        {
+            "w": "quitzinin",
+            "p": "adj",
+            "d": [
+                {
+                    "m": "short",
+                    "s": "Inin cohuitl mahxalyo ahmo ahsi; molui quitzinin.",
+                    "t": "This stick won't reach; it's very short.",
+                    "n": null
+                },
+                {
+                    "m": "small",
+                    "s": "In Juan oc cachi quitzinin quen in Pepe.",
+                    "t": "Juan is smaller than Pepe.",
+                    "n": null
+                },
+                {
+                    "m": "younger",
+                    "s": "Nehhua in ocachi niquitzinin de nochten.",
+                    "t": "I'm the youngest out of everyone.",
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        },
+        {
+            "w": "tequin",
+            "p": "adv",
+            "d": [
+                {
+                    "m": "very, too much, so much, a lot",
+                    "s": "Axan tequin quiahui tleca yi Junio.",
+                    "t": "Now it rains so much because it is June",
+                    "n": null
+                }
+            ],
+            "v": [],
+            "s": []
+        }
+    ]
+}
